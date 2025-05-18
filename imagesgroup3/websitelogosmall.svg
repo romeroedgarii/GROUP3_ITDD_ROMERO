@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 33.333px;
+        font-family: Tahoma;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #000b72;
+      }
+    </style>
+  </defs>
+  <text id="ET" class="cls-1" x="2.688" y="35.938">E<tspan class="cls-2">T</tspan></text>
+</svg>
